@@ -1,0 +1,8 @@
+# Ignore all files in the logs directory
+FILES/
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore specific file
+Archive.zip
